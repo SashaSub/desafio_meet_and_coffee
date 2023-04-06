@@ -1,0 +1,184 @@
+body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    }
+nav {
+    background: #000f08;
+    color: white;
+    padding: 12px 0 13px 0;
+    }
+nav a {
+    color: white;
+    }
+.icono svg {
+    width: 2rem;
+    fill: #ffffff;
+    margin-left: 100px;
+    vertical-align: middle;
+    }       
+header {
+    background-image: url(../img/bg-hero.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* Propiedades Agregadas */
+    font-family: 'Open san', sans-serif;
+    text-shadow: 0px 3px 6px black;
+    text-align: right;
+    color: white;
+    padding: 50px 100px 100px 200px;
+   }
+header h1{
+    font-size: 60px;
+    }
+header h3{
+    font-size: 40px;
+    font-weight: lighter;
+    }
+li {
+    display: inline;
+    margin: 0 50px 0 0;
+    vertical-align: middle;
+    }
+a {
+    text-decoration: none;   
+}
+.lugar {
+    text-align: center;
+    padding: 100px;
+   }
+.lugar img {
+    width: 25%;
+    margin-bottom: 30px;
+   }
+.lugar h2 {
+    font-size: 30px;
+   }
+.lugar p {
+        padding: 15px 420px;
+        opacity: 100%;
+        letter-spacing: 0.5px;
+   }
+.speaker {
+    background: #a4452c;
+    color: white;      
+    margin: 50px;     
+    padding: 20px;
+}
+#Proxima-Charla {
+    background: #a4452c;
+    padding: 100px;
+    color: white;
+   }
+#Proxima-Charla .wrapper {
+    width: 800px;
+    margin: auto;
+   }
+#Proxima-Charla .texto {
+    width: 55%;    
+}
+#Proxima-Charla .texto h2 {
+    font-size: 30px;
+    letter-spacing: 0.9px;
+    /* margin-top: -20px; */
+    /* margin-bottom: 5px; */
+}
+#Proxima-Charla .texto h3 {
+    font-size: 25px;
+    letter-spacing: 0.8px;
+    margin-bottom: 10px;
+}
+#Proxima-Charla .texto h4 {
+    font-size: 20px;
+    font-weight: 300;
+    padding: 10px 0 0 0;
+    letter-spacing: 0.66px;
+}
+.wrapper img {
+    width: 25%;
+    border-radius: 5px;
+   }
+.wrapper .texto {
+    width: 70%;
+    margin-left: 4%;
+    margin-top: -15px;
+   }
+.wrapper img, .texto {
+    display: inline-block;
+    vertical-align: middle;
+   }
+.carrera-expositor {
+    font-size: 12px;
+    font-weight: 100;
+    opacity: 1;
+    margin-bottom: 10px;
+    letter-spacing: 0.4px;
+}
+.descripcion-charla {
+    font-size: 15px;
+    font-weight: 300;
+    padding-right: 50px;    
+}
+.eventos-anteriores {
+    text-align: center;
+    padding: 100px 0px;
+   }
+.eventos-anteriores h2 {
+    font-size: 35px;
+    margin-bottom: 30px;
+   }
+.eventos-anteriores div {
+    display: inline-block;
+    padding: 25px;    
+}
+.eventos-anteriores img {
+    border-radius: 5px;
+    width: 75%;   
+}
+.eventos-anteriores h3 {
+    margin-top: 20px;
+    font-size: 25px;
+    color: black;
+}
+footer {    
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    background: #000f08; 
+    padding: 60px 50px 50px 50px
+}
+i {
+    font-size: 50px;
+    margin: 5px;
+   }
+footer a {
+    color: white;
+}
+footer p {
+    margin: 25px 0 -30px 0;
+    opacity: 0.8;
+}
+#simposio-vegan {    
+    margin: 80px 200px;
+}
+#simposio-vegan img {
+    width:100%;
+    padding-bottom: 50px;
+}
+#simposio-vegan h2 {
+    font-size: 45px;
+    font-weight: bold;   
+    margin-bottom: 40px; 
+}
+#simposio-vegan p {
+    padding-bottom: 50px;
+    font-size: 25px;
+    letter-spacing: 0.5px;
+}
+#simposio-vegan h3 {
+    font-size: 40px;
+    font-weight: bold;   
+    margin-bottom: 40px; 
+}
